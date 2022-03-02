@@ -8,7 +8,7 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 🍋 These are my favourite fruits, and I believe that learning something new EVERY day for at least 15 minutes can make you a better person. 
 
-###My Latest Work:
+### My Latest Work:
 
 [Articles](https://github.com/dacePetra/2022-02-24-friends) // App with article CRUD operations, registration and login system
 
