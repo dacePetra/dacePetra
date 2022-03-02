@@ -21,7 +21,7 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 
 
-####🙌 Reach me: dace.petra@gmail.com |  [Linkedin](https://www.linkedin.com/in/dace-petra/)
+#### 🙌 Reach me: dace.petra@gmail.com |  [Linkedin](https://www.linkedin.com/in/dace-petra/)
 
 
 
