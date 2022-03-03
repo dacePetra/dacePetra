@@ -10,7 +10,7 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 ### My Latest Work:
 
-[Articles](https://github.com/dacePetra/2022-02-24-friends) // App for articles (CRUD operations), user registration and login system
+[Articles](https://github.com/dacePetra/2022-02-24-friends) // App for articles (CRUD operations), likes and comments, user registration and login system
 
 [Stocks](https://github.com/dacePetra/2022-02-11-stocks) // Simple app for monitoring and searching real-time quotes
 
