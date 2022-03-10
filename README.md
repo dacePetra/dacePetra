@@ -10,7 +10,7 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 ### My Latest Work:
 
-[BookingApp](https://github.com/dacePetra/2022-03-05-bookingApp) // App for rentals (CRUD operations), reviews, rental reservation, user registration and login system
+[BookingApp](https://github.com/dacePetra/2022-03-05-bookingApp) // App for rentals (CRUD operations), MVC architecture, rental reservation, user registration and login system
 
 [Articles&FriendsApp](https://github.com/dacePetra/2022-02-24-friends) // App for articles (CRUD operations), likes and comments, user registration and login system
 
