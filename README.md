@@ -12,6 +12,8 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 [BookingApp](https://github.com/dacePetra/2022-03-05-bookingApp) // App for rentals (CRUD operations), MVC architecture, rental reservation, user registration and login system
 
+[Store](https://github.com/dacePetra/2022-03-29-store) // App for products, view, buy, select payment method
+
 [Articles&FriendsApp](https://github.com/dacePetra/2022-02-24-friends) // App for articles (CRUD operations), likes and comments, user registration and login system
 
 [Stocks](https://github.com/dacePetra/2022-02-11-stocks) // Simple app for monitoring and searching real-time quotes
