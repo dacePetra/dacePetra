@@ -10,6 +10,8 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 ### My Latest Work:
 
+[DatingApp](https://github.com/dacePetra/FindYourHoneyApp) // Laravel, matchmaking engine(like/dislike/match), profile CRUD, picture gallery
+
 [BookingApp](https://github.com/dacePetra/2022-03-05-bookingApp) // App for rentals (CRUD operations), MVC architecture, rental reservation, user registration and login system
 
 [Store](https://github.com/dacePetra/2022-03-29-store) // App for products, view, buy, select payment method
@@ -18,7 +20,7 @@ Unit & Integration testing, MVC, HTML & CSS.
 
 [Stocks](https://github.com/dacePetra/2022-02-11-stocks) // Simple app for monitoring and searching real-time quotes
 
-[Register](https://github.com/dacePetra/2022-02-20-person-register) // Basic person register app
+
 
 
 
