@@ -1,14 +1,13 @@
-## Hello 🍉
+## Hi
 
-🍏 I am Dace, software developer with a background in accounting and finance, located in Riga. I enjoy being challenged for self-development.
+I am Dace, software developer with a background in accounting and finance. I enjoy being challenged for self-development.
 
-🍒 Currently I am continuously evolving my professional skills in front-end && back-end web 
-application development utilizing a wide range of technologies, including PHP, MySQL, Laravel, 
-Unit & Integration testing, MVC, HTML & CSS.
+I am continuously evolving my professional skills in front-end && back-end web 
+application development utilizing a wide range of technologies, including PHP, JavaScript, MySQL, Laravel, MVC, HTML & CSS.
 
-🍋 These are my favourite fruits, and I believe that learning something new EVERY day for at least 15 minutes can make you a better person. 
+🍋 I believe that learning something new EVERY day for at least 15 minutes can make you a better person. 
 
-### My Latest Work:
+### My Work from time when I started to code in 2022:
 
 [DatingApp](https://github.com/dacePetra/FindYourHoneyApp) // Laravel, matchmaking engine(like/dislike/match), profile CRUD, picture gallery
 
